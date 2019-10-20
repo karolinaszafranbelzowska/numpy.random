@@ -14,3 +14,5 @@ References:
 https://en.wikipedia.org/wiki/NumPy
 
 https://www.geeksforgeeks.org/python-random-sample-function/
+
+https://docs.scipy.org/doc/numpy-dev/reference/generated/numpy.random.rand.html#numpy.random.rand
