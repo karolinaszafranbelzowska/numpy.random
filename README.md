@@ -11,8 +11,10 @@ See here for the instructions : https://web.microsoftstream.com/video/ce720db9-e
 
 References:
 
-https://en.wikipedia.org/wiki/NumPy
+1. https://en.wikipedia.org/wiki/NumPy
 
-https://www.geeksforgeeks.org/python-random-sample-function/
+2. https://www.geeksforgeeks.org/python-random-sample-function/
 
-https://docs.scipy.org/doc/numpy-dev/reference/generated/numpy.random.rand.html#numpy.random.rand
+3. https://docs.scipy.org/doc/numpy-dev/reference/generated/numpy.random.rand.html#numpy.random.rand
+
+4. https://appdividend.com/2019/01/28/calculate-permutations-and-combinations-in-python/
