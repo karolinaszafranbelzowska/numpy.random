@@ -10,4 +10,6 @@ See here for the instructions : https://web.microsoftstream.com/video/ce720db9-e
 
 
 References:
+
 https://en.wikipedia.org/wiki/NumPy
+https://www.geeksforgeeks.org/python-random-sample-function/
