@@ -7,3 +7,7 @@
 
 This repository contains my assessment for the module "Programming for Data Analysis" at GMIT.
 See here for the instructions : https://web.microsoftstream.com/video/ce720db9-ebd2-4ac4-8216-56913ba3b23a
+
+
+References:
+https://en.wikipedia.org/wiki/NumPy
