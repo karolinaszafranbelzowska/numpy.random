@@ -20,3 +20,5 @@ References:
 4. https://appdividend.com/2019/01/28/calculate-permutations-and-combinations-in-python/
 
 5. https://problemsolvingwithpython.com/
+
+6. https://pynative.com/python-random-seed/
