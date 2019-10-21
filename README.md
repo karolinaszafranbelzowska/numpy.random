@@ -23,4 +23,4 @@ References:
 
 6. https://pynative.com/python-random-module/
 
-7.https://www.geeksforgeeks.org/random-seed-in-python/
+7. https://www.geeksforgeeks.org/random-seed-in-python/
