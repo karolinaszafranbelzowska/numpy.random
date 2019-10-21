@@ -18,3 +18,9 @@ References:
 3. https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html
 
 4. https://appdividend.com/2019/01/28/calculate-permutations-and-combinations-in-python/
+
+5. https://problemsolvingwithpython.com/
+
+6. https://pynative.com/python-random-module/
+
+7. https://www.geeksforgeeks.org/random-seed-in-python/
