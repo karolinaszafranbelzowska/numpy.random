@@ -8,8 +8,15 @@
 This repository contains my assessment for the module "Programming for Data Analysis" at GMIT.
 See here for the instructions : https://web.microsoftstream.com/video/ce720db9-ebd2-4ac4-8216-56913ba3b23a
 
+### How to run the Jupyter notebook
+The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
+```
+jupyter notebook
+```
+This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: [Jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
 
-References:
+
+#### References:
 
 1. https://en.wikipedia.org/wiki/NumPy
 
