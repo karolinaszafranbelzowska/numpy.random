@@ -31,3 +31,5 @@ This will launch a new browser window (or a new tab) showing the Notebook Dashbo
 6. https://pynative.com/python-random-module/
 
 7. https://www.geeksforgeeks.org/random-seed-in-python/
+
+8. https://www.kaggle.com/eliotbarr/santa-python-first-analysis
