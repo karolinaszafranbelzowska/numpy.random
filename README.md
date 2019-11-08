@@ -42,3 +42,7 @@ Imported the libraries for this project:  Numpy, Matplotlib.pyplot, Random
 9. https://www.youtube.com/watch?v=ymv5TmFiobE
 
 10. https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.normal.html#numpy.random.normal
+
+11. https://www.youtube.com/results?search_query=np.random.binomial
+
+12. https://www.geeksforgeeks.org/binomial-random-variables/
