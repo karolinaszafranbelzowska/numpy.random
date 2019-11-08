@@ -38,3 +38,5 @@ The Jupyter Notebook is an open-source web application that allows you to create
 8. https://www.kaggle.com/eliotbarr/santa-python-first-analysis
 
 9. https://www.youtube.com/watch?v=ymv5TmFiobE
+
+10. https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.normal.html#numpy.random.normal
