@@ -16,6 +16,9 @@ jupyter notebook
 This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: [Jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
 
 
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
+
 #### References:
 
 1. https://en.wikipedia.org/wiki/NumPy
