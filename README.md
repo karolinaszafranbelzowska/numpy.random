@@ -3,13 +3,23 @@
 
 # This repository contains Assessment for the module _Programming for Data Analysis._
 
-# Karolina Szafran-Belzowska, 2019-11-19
+# Karolina Szafran-Belzowska, 2019-11-10
 
 This repository contains my assessment for the module "Programming for Data Analysis" at GMIT.
 See here for the instructions : https://web.microsoftstream.com/video/ce720db9-ebd2-4ac4-8216-56913ba3b23a
 
+### How to run the Jupyter notebook
+The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
+```
+jupyter notebook
+```
+This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open. Taken from: [Jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
 
-References:
+
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
+
+#### References:
 
 1. https://en.wikipedia.org/wiki/NumPy
 
@@ -24,3 +34,5 @@ References:
 6. https://pynative.com/python-random-module/
 
 7. https://www.geeksforgeeks.org/random-seed-in-python/
+
+8. https://www.kaggle.com/eliotbarr/santa-python-first-analysis
