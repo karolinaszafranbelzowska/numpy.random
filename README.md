@@ -8,6 +8,12 @@
 This repository contains my assessment for the module "Programming for Data Analysis" at GMIT.
 See here for the instructions : https://web.microsoftstream.com/video/ce720db9-ebd2-4ac4-8216-56913ba3b23a
 
+
+This Jupyter notebook will explain what numpy.random package is and what is the purpuse of it. numpy.random lets user generate random numbers or random values in a sequence. Output will be different everytime as it returns a random item.
+
+Python uses numpy.random to generate or manipulate random numbers. This particular type of functions are used in a lot of games, lotteries or any application requiring random number generation.
+
+
 ### How to run the Jupyter notebook
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
 ```
@@ -18,6 +24,8 @@ This will launch a new browser window (or a new tab) showing the Notebook Dashbo
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
+### Libraries used
+Imported the libraries for this project:  Numpy, Matplotlib.pyplot, Random
 
 #### References:
 
@@ -40,3 +48,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
 9. https://www.youtube.com/watch?v=ymv5TmFiobE
 
 10. https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.normal.html#numpy.random.normal
+
+11. https://www.youtube.com/results?search_query=np.random.binomial
+
+12. https://www.geeksforgeeks.org/binomial-random-variables/
